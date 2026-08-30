@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6aa4d422-487c-4319-9819-3a9d4ad7abb6",
+  "path": "frontend-skill",
+  "path_key": "frontend-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
