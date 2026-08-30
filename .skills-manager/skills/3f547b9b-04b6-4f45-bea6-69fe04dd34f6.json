@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3f547b9b-04b6-4f45-bea6-69fe04dd34f6",
+  "path": "web-design-guidelines-2",
+  "path_key": "web-design-guidelines-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
