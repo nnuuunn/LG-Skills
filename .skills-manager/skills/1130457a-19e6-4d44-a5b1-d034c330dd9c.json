@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1130457a-19e6-4d44-a5b1-d034c330dd9c",
+  "path": "daisyui",
+  "path_key": "daisyui",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/saadeghi/daisyui/tree/master/skills/daisyui",
+    "subpath": "skills/daisyui",
+    "branch": "master"
+  }
+}
