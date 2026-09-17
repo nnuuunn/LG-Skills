@@ -5,7 +5,7 @@
   "sort_order": 0,
   "tools": {
     "claude_code": true,
-    "codex": false,
+    "codex": true,
     "deepseek_harness": true,
     "github_copilot": true,
     "pi": true,
