@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "95fd7e1e-4994-4c0c-a925-a79958bbab4e",
+  "path": "impeccable",
+  "path_key": "impeccable",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "pbakaus/impeccable/impeccable",
+    "subpath": ".agents\\skills\\impeccable",
+    "branch": null
+  }
+}
